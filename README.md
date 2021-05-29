@@ -1,2 +1,4 @@
 # CSL_HCMC
-Repository for the CityScope project related to Ho Chi Minh City Collaboration
+This respository contains a complete set of data used for the evaluation, analysis, and simulation with the CityScope platform developed by the MIT Media lab.
+
+Description of metadata, queries, and codes is provided in the Wiki page.
