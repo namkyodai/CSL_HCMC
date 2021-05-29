@@ -1,9 +1,9 @@
 # CityScope Platform for Urban Planning - An Application in HCMC, Vietnam
-This respository contains a complete set of data used for the evaluation, analysis, and simulation with the CityScope platform developed by the MIT Media lab.
+This repository  contains a complete set of data used for the evaluation, analysis, and simulation with the CityScope platform developed by the MIT Media lab.
 
 Description of metadata, queries, and codes is provided in the Wiki page.
 
-Respository is comprising of three main folders
+Repository is comprising of three main folders
 
 1. Input
 2. Code
